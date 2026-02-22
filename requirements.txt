@@ -1,0 +1,9 @@
+# ===============================
+# Project Dependencies
+# ===============================
+
+# HTTP requests (Public IP, web checks)
+requests>=2.25.0
+
+# Network packet manipulation & ARP scanning (LAN discovery)
+scapy>=2.4.5
